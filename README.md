@@ -37,6 +37,7 @@ The code for the server can be found [here](https://github.com/michaelfswann/bac
 
 ## Getting Started
 
-1. Clone the repo `git clone https://github.com/michaelfswann/back-end-final-project-communiteam`
+1. Clone the repo `git clone https://github.com/michaelfswann/front-end-final-project-communiteam`
 2. Install dependencies `npm install`
-3. Start server running at port 5000 by default `npm start`
+3. Build client `npm run build`
+4. Start client at port `3000` `npm run start`
